@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="307ff301-a122-40ff-b137-20f5c7c3ac34" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Tkinter GUI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tkinter GUI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +18,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="737e0b62-6404-4bd2-8a58-0a95836740ec" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/sameenwasifhussain/Tkinter_GUI.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1YP0Gv0QX9jExZKC6ekeO821WmG" />
   <component name="ProjectViewState">
@@ -115,28 +122,60 @@
       <option name="presentableId" value="Default" />
       <updated>1581477850262</updated>
     </task>
+    <task id="LOCAL-00001" summary="Just added a line to check Git Push">
+      <created>1582829396584</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582829396584</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Just added a line to check Git Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Just added a line to check Git Push" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1278" height="193" key="GridCell.Tab.0.bottom" timestamp="1582829316876">
+    <state x="324" y="24" key="CommitChangelistDialog2" timestamp="1582829396333">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="193" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1582829316876" />
-    <state width="1278" height="193" key="GridCell.Tab.0.center" timestamp="1582829316875">
+    <state x="324" y="24" key="CommitChangelistDialog2/65.24.1301.744@65.24.1301.744" timestamp="1582829396333" />
+    <state x="551" y="300" key="Github.Dialog.Accounts.Choose" timestamp="1582829452337">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="193" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1582829316875" />
-    <state width="1278" height="193" key="GridCell.Tab.0.left" timestamp="1582829316874">
+    <state x="551" y="300" key="Github.Dialog.Accounts.Choose/65.24.1301.744@65.24.1301.744" timestamp="1582829452337" />
+    <state width="1278" height="193" key="GridCell.Tab.0.bottom" timestamp="1582829575140">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="193" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1582829316874" />
-    <state width="1278" height="193" key="GridCell.Tab.0.right" timestamp="1582829316876">
+    <state width="1278" height="193" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1582829575140" />
+    <state width="1278" height="193" key="GridCell.Tab.0.center" timestamp="1582829575138">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="193" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1582829316876" />
+    <state width="1278" height="193" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1582829575138" />
+    <state width="1278" height="193" key="GridCell.Tab.0.left" timestamp="1582829575136">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="193" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1582829575136" />
+    <state width="1278" height="193" key="GridCell.Tab.0.right" timestamp="1582829575139">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="193" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1582829575139" />
     <state x="209" y="24" key="SettingsEditor" timestamp="1582828848771">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="209" y="24" key="SettingsEditor/65.24.1301.744@65.24.1301.744" timestamp="1582828848771" />
+    <state x="315" y="119" key="Vcs.Push.Dialog.v2" timestamp="1582829430889">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="315" y="119" key="Vcs.Push.Dialog.v2/65.24.1301.744@65.24.1301.744" timestamp="1582829430889" />
+    <state x="376" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1582829639036">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="376" y="211" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1582829639036" />
+    <state x="353" y="177" key="git4idea.merge.GitPullDialog" timestamp="1582829522003">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="353" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744@65.24.1301.744" timestamp="1582829522003" />
   </component>
 </project>
