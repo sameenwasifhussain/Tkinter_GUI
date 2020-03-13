@@ -6,7 +6,7 @@ root = Tk()
 # Global Variables
 r = 1
 
-# Function For Button Click Output
+# Function For Output After Button Click
 def buttonClick():
     global r
     myLabel = Label(root, text = "New Label")
