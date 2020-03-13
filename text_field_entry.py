@@ -8,7 +8,7 @@ entryField = Entry(root, width = 50, borderwidth = 5)
 entryField.pack()
 entryField.insert(0, "Enter Your Name: ")
 
-# Function for Button Click
+# Function for Output after Button Click
 def buttonClick():
     helloText = "Hello " + entryField.get()
     myLabel = Label(root, text = helloText)
